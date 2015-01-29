@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mrbrdo/datasource.git
-  revision: 1a57c5fe7b5070e81044557e5db35709055774d9
+  revision: b5f1e2397884b57d2931e32e2790007297879e54
   specs:
     datasource (0.1.1)
       active_model_serializers (>= 0.8)
