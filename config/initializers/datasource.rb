@@ -6,7 +6,7 @@ Datasource.setup do |config|
 
   # Enable simple mode, which will always select all model database columns,
   # making Datasource easier to use. See documentation for details.
-  config.simple_mode = true
+  config.simple_mode = false
 end
 
 Datasource.logger.level = Logger::INFO
