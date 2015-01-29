@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/mrbrdo/datasource.git
+  revision: 1a57c5fe7b5070e81044557e5db35709055774d9
+  specs:
+    datasource (0.1.1)
+      active_model_serializers (>= 0.8)
+      activesupport (>= 4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -126,6 +134,7 @@ PLATFORMS
 DEPENDENCIES
   active_model_serializers (~> 0.9)
   coffee-rails (~> 4.1.0)
+  datasource!
   puma
   rails (= 4.2.0)
   sass-rails (~> 5.0)
